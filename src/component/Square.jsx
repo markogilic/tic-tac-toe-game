@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import xPlayer from '../assets/icon-x.svg';
 import oPlayer from '../assets/icon-o.svg';
 
